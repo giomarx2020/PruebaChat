@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ChatPruebaRadar" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/azul</item>
+        <item name="android:textColor">@color/black</item>
+
+    </style>
+
+    <style name="Theme.ChatPruebaRadar" parent="Base.Theme.ChatPruebaRadar" />
+</resources>
